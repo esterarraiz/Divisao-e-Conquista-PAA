@@ -11,6 +11,6 @@ O trabalho foi desenvolvido em grupo, conforme as diretrizes da atividade. O gru
 
 
 ## Escolha do Artigo
-O artigo escolhido, "Multiple Sequence Alignment with the Divide-and-Conquer Method".
+O artigo escolhido foi "Multiple Sequence Alignment with the Divide-and-Conquer Method".
 
 
